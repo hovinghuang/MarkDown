@@ -7,7 +7,7 @@
 $ vue init webpack my-project
 ```
 
-（2）填写一些初始化信息（**需要注意的是项目的名称不能大写，不然会报错。**）
+（2）填写一些初始化信息（**需要注意的是项目的名称不能大写，不然会报错**）
 
 ~~~
 HovingHuang:Vue hovinghuang$ vue init webpack vue-demo-vuex
